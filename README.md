@@ -1,7 +1,7 @@
 # Chatbot for CDPs
 
-Developed a chatbot capable of answering "How-to" questions for Segment, mParticle, Lytics,
-and Zeotap. Implemented documentation scraping for dynamically fetching relevant steps.
+Developed a chatbot capable of answering "How-to" questions for Segment, mParticle, Lytics,and Zeotap.
+/Implemented documentation scraping for dynamically fetching relevant steps.
 Designed user-friendly responses for variations in question phrasing.
 Bonus features: Included cross-CDP comparisons and handled advanced platform-specific queries.
 
